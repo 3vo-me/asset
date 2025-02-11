@@ -1,0 +1,3403 @@
+[
+{
+    "name": "MAGA 2025",
+    "type": "BASE",
+    "symbol": "MAGA",
+    "decimals": 18,
+    "website": "https://maga2025.shop/",
+    "description": "The MAGA 2025 now shines on Base blockchain with her own token, attracting crypto investors looking for the next mooncoin sensation.",
+    "explorer": "https://basescan.org/token/0x005826f7C1D1D92F8ee460dEc0a8493784aD6010",
+    "status": "active",
+    "id": "0x005826f7C1D1D92F8ee460dEc0a8493784aD6010",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/MAGA2025HQ"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/maga-2025/"
+        }
+    ]
+},
+{
+    "name": "Crypto President Trump",
+    "type": "BASE",
+    "symbol": "TRUMP",
+    "decimals": 18,
+    "description": "The project leverages the iconic status of Donald Trump in both political and meme culture, creating a token that serves as both a collectible and a speculative investment.",
+    "website": "https://cryptopresident.io/",
+    "explorer": "https://basescan.org/token/0x01177Faf5CEB245b02FA1F008bD11bfeFe6CEa68",
+    "id": "0x01177Faf5CEB245b02FA1F008bD11bfeFe6CEa68",
+    "status": "spam",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/i/flow/login?redirect_after_login=%2FCrypto_Pres_CTO"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/crypto-president-trump/"
+        }
+    ]
+},
+{
+    "name": "WrappedXFI",
+    "type": "BASE",
+    "symbol": "WXFI",
+    "decimals": 18,
+    "website": "https://crossfi.org",
+    "description": "The CrossFi App is a groundbreaking innovation in digital banking, revolutionizing the way traditional finance integrates with the cryptocurrency world.",
+    "explorer": "https://basescan.org/token/0x015e7b67198c29462d6653ba72c8a6612dc21014",
+    "status": "active",
+    "id": "0x015e7B67198C29462D6653BA72C8a6612DC21014",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/crossfinance/"
+        }
+    ]
+},
+{
+    "name": "Triumph of MAGA",
+    "symbol": "MAGA",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "The 'Triumph of MAGA' ($MAGA) token is a political meme coin designed to celebrate the spirit of the 'Make America Great Again' movement with a humorous, crypto-friendly twist. This token offers more than just a meme—it’s a movement on the blockchain.",
+    "website": "https://triumphofmaga.com/",
+    "explorer": "https://basescan.org/token/0x0265C6971037564f2A1382F63Fe9d707342891F2",
+    "status": "spam",
+    "id": "0x0265C6971037564f2A1382F63Fe9d707342891F2",
+    "links": [
+        {
+           "name": "x",
+           "url": "https://x.com/Triumph_MAGA"
+        }
+     ]
+},
+{
+    "name": "Pett AI",
+    "website": "https://www.pett.ai/",
+    "description": "PettAI is an AI-driven game merging advanced gameplay with intricate economics.",
+    "explorer": "https://basescan.org/token/0x02D4f76656C2B4f58430e91f8ac74896c9281Cb9",
+    "type": "BASE",
+    "symbol": "AIP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x02D4f76656C2B4f58430e91f8ac74896c9281Cb9",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/pettaiofficial"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/Pett_ai"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/pett-ai/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/pettai"
+        }
+    ],
+    "tags": [
+        "gamefi"
+    ]
+},
+{
+   "name": "higher",
+   "type": "BASE",
+   "symbol": "HIGHER",
+   "decimals": 18,
+   "website": "https://www.higher.party/",
+   "description": "100% fair launched",
+   "explorer": "https://basescan.org/token/0x0578d8a44db98b23bf096a382e016e29a5ce0ffe",
+   "status": "active",
+   "id": "0x0578d8A44db98B23BF096A382e016e29a5Ce0ffe",
+   "links": [
+      {
+         "name": "x",
+         "url": "https://x.com/higheronchain"
+      }
+   ]
+},
+{
+    "name": "Based Coin",
+    "website": "https://www.basedcoin.net/",
+    "description": "The most based coin onchain, $BASED is a community meme coin that strives towards the expansion of the base ecosystem through innovative mechanics, like a massive multi-chain airdrop, unique dApps, and strong partnerships.",
+    "explorer": "https://basescan.org/token/0x07d15798a67253d76cea61f0ea6f57aedc59dffb",
+    "type": "BASE",
+    "symbol": "BASED",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x07d15798a67253D76cea61F0eA6F57AeDC59DffB",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/BasedCoinL2"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/BasedCoinL2"
+        }
+    ],
+    "tags": [
+        "memes"
+    ]
+},
+{
+    "name": "TRUMP2024",
+    "type": "BASE",
+    "symbol": "TRUMP2024",
+    "decimals": 18,
+    "website": "https://trump2024base.xyz/",
+    "description": "TRUMP 2024 is meme on base",
+    "explorer": "https://basescan.org/token/0x0ab57f6600374a7d3b4f02e94cdda7d309d6a00e",
+    "status": "active",
+    "id": "0x0Ab57f6600374A7d3B4f02E94CddA7d309d6a00E",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/TRUMP2024BASE"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/+m1r6wQyqhhNkOGY1"
+        }
+    ]
+},
+{
+    "name": "Ambire Wallet",
+    "website": "https://ambire.com",
+    "description": "WALLET is the governance token of Ambire Wallet. It is also used as a user acquisition tool for marketing activities (referral program, rewards, etc.).",
+    "explorer": "https://basescan.org/token/0x0BbbEad62f7647AE8323d2cb243A0DB74B7C2b80",
+    "type": "BASE",
+    "symbol": "WALLET",
+    "status": "active",
+    "decimals": 18,
+    "id": "0x0BbbEad62f7647AE8323d2cb243A0DB74B7C2b80",
+    "tags": [
+        "defi",
+        "governance",
+        "staking"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/AmbireTech/wallet"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/AmbireWallet"
+        },
+        {
+            "name": "blog",
+            "url": "https://ambire.medium.com"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/AmbireOfficial"
+        },
+        {
+            "name": "facebook",
+            "url": "https://facebook.com/AmbireAdEx"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://ambire.com/whitepaper"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ambire-wallet"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/ambire-wallet"
+        }
+    ]
+},
+{
+    "name": "The Innovation Game",
+    "symbol": "TIG",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "The Innovation Game (TIG) is a protocol designed to accelerate algorithmic innovation. At TIG's core is a novel PoW mechanism that allows for optimisation of the PoW algorithms.‍",
+    "website": "https://tig.foundation/",
+    "explorer": "https://basescan.org/token/0x0C03Ce270B4826Ec62e7DD007f0B716068639F7B",
+    "status": "active",
+    "id": "0x0C03Ce270B4826Ec62e7DD007f0B716068639F7B",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/the-innovation-game/"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/tigfoundation"
+        }
+    ]
+},
+{
+    "name": "GoPlus Security",
+    "type": "BASE",
+    "symbol": "GPS",
+    "decimals": 18,
+    "description": "GoPlus Security is building Web3's first decentralized security layer, providing comprehensive protection across all blockchain networks to protect every transaction for users.",
+    "website": "https://gopluslabs.io",
+    "explorer": "https://basescan.org/token/0x0c1dc73159e30c4b06170f2593d3118968a0dca5",
+    "id": "0x0C1dC73159e30c4b06170F2593D3118968a0DCa5",
+    "status": "active",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/GoplusSecurity"
+        }
+    ]
+},
+{
+    "name": "Base God",
+    "website": "https://basegod.fun/",
+    "description": "Base God is the most Based meme on Base. Join the Disciples of B as we follow Big B to eternal salvation and take over the Base chain.",
+    "explorer": "https://basescan.org/token/0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
+    "type": "BASE",
+    "symbol": "TYBG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x0d97F261b1e88845184f678e2d1e7a98D9FD38dE",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/tybasegod"
+        }
+    ]
+},
+{
+    "name": "Anime",
+    "type": "BASE",
+    "symbol": "ANIME",
+    "decimals": 18,
+    "website": "https://animeonbase.art/",
+    "description": "Just a coin for people who love art and anime. An onchain art and anime movement.",
+    "explorer": "https://basescan.org/token/0x0e0c9756a3290cD782CF4aB73ac24D25291c9564",
+    "status": "active",
+    "id": "0x0e0c9756a3290cD782CF4aB73ac24D25291c9564",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/animeonbase"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/AnimeOnBase"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/anime/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/anime-base"
+        }
+    ]
+},
+{
+    "name": "GOAT BASED",
+    "type": "BASE",
+    "symbol": "GOAT",
+    "decimals": 18,
+    "description": "With the rise of $GOAT and the growing allure of Truth Terminal’s darkly humorous, unpredictable personality, this site was born as a byproduct of its influence.",
+    "website": "https://goatbased.pro/",
+    "explorer": "https://basescan.org/token/0x106C8A8bA4D7fCC70e35A3fFaa35252047bC5271",
+    "id": "0x106C8A8bA4D7fCC70e35A3fFaa35252047bC5271",
+    "status": "spam",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/GOATBASEDTOKEN"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/goat-based/"
+        }
+    ],
+    "tags": [
+        "memes"
+    ]
+},
+{
+    "name": "sekoia by Virtuals",
+    "symbol": "SEKOIA",
+    "decimals": 18,
+    "type": "BASE",
+    "website": "https://app.virtuals.io/virtuals/743",
+    "description": "Meet SEKOIA - The Growth-Minded AI Investment Partner",
+    "explorer": "https://basescan.org/token/0x1185cb5122edad199bdbc0cbd7a0457e448f23c7",
+    "status": "active",
+    "id": "0x1185cB5122Edad199BdBC0cbd7a0457E448f23c7",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/sekoia_virtuals"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/sekoia-by-virtuals/"
+        }
+    ]
+},
+{
+  "name": "Propy",
+  "symbol": "PRO",
+  "type": "BASE",
+  "decimals": 8,
+  "description": "Propy is a decentralized real-estate market place backed by superior blockchain infrastructure to facilitate real-time unified transaction in order to reduce fraud and redundancy. Propy is the world’s first international real-estate marketplace.",
+  "website": "https://propy.com",
+  "explorer": "https://basescan.org/token/0x18dD5B087bCA9920562aFf7A0199b96B9230438b",
+  "status": "active",
+  "id": "0x18dD5B087bCA9920562aFf7A0199b96B9230438b",
+  "links": [
+      {
+          "name": "coinmarketcap",
+          "url": "https://coinmarketcap.com/currencies/propy/"
+      },
+      {
+          "name": "x",
+          "url": "https://x.com/propyinc"
+      }
+  ]
+},
+{
+    "name": "imgnAI.com",
+    "website": "https://imgnai.com/",
+    "description": "$imgnAI is the creator token that powers the imgnAI platform - a suite of creative AI tools built for maximum fun, and maximum freedom.",
+    "explorer": "https://basescan.org/token/0x18E692c03De43972Fe81058f322fa542Ae1A5E2c",
+    "symbol": "imgnAI",
+    "type": "BASE",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x18E692c03De43972Fe81058f322fa542Ae1A5E2c",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/imgn_ai"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/imgnAI"
+        }
+    ]
+},
+{
+    "name": "tokenbot",
+    "symbol": "CLANKER",
+    "decimals": 18,
+    "type": "BASE",
+    "website": "https://www.clanker.world/",
+    "description": "tokenbot",
+    "explorer": "https://basescan.org/token/0x1bc0c42215582d5a085795f4badbac3ff36d1bcb",
+    "status": "active",
+    "id": "0x1bc0c42215582d5A085795f4baDbaC3ff36d1Bcb"
+},
+{
+    "name": "Super Trump",
+    "website": "https://realsupertrump.com/",
+    "description": "Super Trump is an audacious venture into the realm of meme cryptocurrencies, designed to embody the polarizing yet captivating political figure of Donald Trump",
+    "explorer": "https://basescan.org/token/0x1C4f589c48fd3b707fb87c6b6ad5A362EF75c683",
+    "type": "BASE",
+    "symbol": "TRUMP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1C4f589c48fd3b707fb87c6b6ad5A362EF75c683",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/Real_SuperTrump"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/realsupertrump-com"
+        }
+    ]
+},
+{
+    "name": "Seamless",
+    "website": "https://www.seamlessprotocol.com/",
+    "description": "Seamless Protocol is a native decentralized lending and borrowing protocol on Base. Seamless is focusing on lower-collateral borrowing and a better user experience to inspire the masses. SEAM is the utility governance token of Seamless Protocol.",
+    "explorer": "https://basescan.org/token/0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
+    "type": "BASE",
+    "symbol": "SEAM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x1C7a460413dD4e964f96D8dFC56E7223cE88CD85",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/SeamlessFi"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/seamless_protocol"
+        }
+    ]
+},
+{
+    "name": "DORA AI by Virtuals",
+    "symbol": "DORA",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "DORA AI is an advanced AI-powered travel assistant built on the BASE network using the Virtuals Protocol.",
+    "website": "https://www.xdora.ai/",
+    "explorer": "https://basescan.org/token/0x1e2093ab84768948c6176db5ad98c909ce97f368",
+    "status": "active",
+    "id": "0x1E2093AB84768948C6176DB5aD98C909ce97F368",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/xDora_ai"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/dora-ai-by-virtuals/"
+      }
+    ]
+  },
+{
+    "name": "AicroStrategy",
+    "website": "https://aicrostrategy.com/",
+    "description": "AicroStrategy ($AiSTR) revolutionizes investment through autonomous AI agents, delivering unparalleled trading strategies on Base.",
+    "explorer": "https://basescan.org/token/0x20ef84969f6d81Ff74AE4591c331858b20AD82CD",
+    "type": "BASE",
+    "symbol": "AiSTR",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x20ef84969f6d81Ff74AE4591c331858b20AD82CD",
+    "links": [
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/aicrostrategy"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/AicroStrategy"
+        }
+    ]
+},
+{
+    "name": "BankrCoin",
+    "symbol": "BNKR",
+    "decimals": 18,
+    "type": "BASE",
+    "website": "https://bankr.bot/",
+    "description": "Your Friendly AI-Powered Crypto Companion",
+    "explorer": "https://basescan.org/token/0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b",
+    "status": "active",
+    "id": "0x22aF33FE49fD1Fa80c7149773dDe5890D3c76F3b",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/bankrbot"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/bankercoin-2"
+        }
+    ]
+},
+{
+    "name": "Unagi Token (UNA)",
+    "type": "BASE",
+    "symbol": "UNA",
+    "decimals": 18,
+    "website": "https://unagi.games/",
+    "description": "UNA token is Unagi's web3 gaming ecosystem token. It is your universal ticket to the entire range of Unagi games, offering a seamless experience across various genres and platforms including Ultimate Champions, Persona and more to come! We’re creating a cohesive, interconnected gaming environment.",
+    "explorer": "https://basescan.org/token/0x24569d33653c404f90aF10A2b98d6E0030D3d267",
+    "status": "active",
+    "id": "0x24569d33653c404f90aF10A2b98d6E0030D3d267",
+    "links": [
+        {
+            "name": "medium",
+            "url": "https://ultimatechampions.medium.com/"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/Unagi_studio"
+        }
+    ],
+    "tags": [
+        "gamefi",
+        "deflationary",
+        "staking",
+        "nft"
+    ]
+},
+{
+    "name": "Bald",
+    "website": "https://x.com/BaldBaseBald",
+    "description": "Bald (BALD) is a cryptocurrency and operates on the Base platform.",
+    "explorer": "https://basescan.org/token/0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+    "type": "BASE",
+    "symbol": "BALD",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x27D2DECb4bFC9C76F0309b8E88dec3a601Fe25a8",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/BaldBaseBald"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/bald/"
+        }
+    ]
+},
+{
+    "name": "Kudai",
+    "symbol": "KUDAI",
+    "decimals": 18,
+    "type": "BASE",
+    "website": "https://www.kudai.io/",
+    "description": "AI agent phase 1/4.",
+    "explorer": "https://basescan.org/token/0x288f4eb27400fa220d14b864259ad1b7f77c1594",
+    "status": "active",
+    "id": "0x288F4Eb27400fA220d14b864259Ad1B7f77C1594",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/Kudai_IO"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/kudai/"
+        }
+    ]
+},
+{
+    "name": "Coinbase Wrapped Staked ETH",
+    "website": "https://www.coinbase.com/",
+    "description": "Coinbase Wrapped Staked ETH (“cbETH”) is a utility token that represents Ethereum 2 (ETH2), which is ETH staked through Coinbase.",
+    "explorer": "https://basescan.org/token/0x2ae3f1ec7f1f5012cfeab0185bfc7aa3cf0dec22",
+    "type": "BASE",
+    "symbol": "cbETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2Ae3F1Ec7F1F5012CFEab0185bfc7aa3cf0DEc22",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/CoinbaseAssets"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/coinbase-wrapped-staked-eth/"
+        }
+    ]
+},
+{
+    "name": "Zeebu",
+    "type": "BASE",
+    "symbol": "ZBU",
+    "decimals": 18,
+    "website": "https://www.zeebu.com/",
+    "description": "Zeebu is a telecom carrier business.",
+    "explorer": "https://basescan.org/token/0x2C8C89C442436CC6C0a77943E09c8Daf49Da3161",
+    "status": "active",
+    "id": "0x2C8C89C442436CC6C0a77943E09c8Daf49Da3161",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/zeebuofficial"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/zeebu/"
+        }
+    ]
+},
+{
+    "name": "Mog Coin",
+    "website": "https://mogcoin.xyz/",
+    "description": "This Coin mogs all other coins. Base bridge version of Mog Coin on Ethereum.",
+    "explorer": "https://basescan.org/token/0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71",
+    "type": "BASE",
+    "symbol": "Mog",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2Da56AcB9Ea78330f947bD57C54119Debda7AF71",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/MogCoinEth"
+        }
+    ]
+},
+{
+    "name": "Akuma Inu",
+    "website": "https://akumainu.io/",
+    "description": "Forged in the frenzied fires of market volatility, AKUMA INU has emerged as the embodiment of the degen spirit – wild, unyielding, and relentless in the pursuit of crypto supremacy.",
+    "explorer": "https://basescan.org/token/0x2f20cf3466f80a5f7f532fca553c8cbc9727fef6",
+    "type": "BASE",
+    "symbol": "AKUMA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2F20Cf3466f80A5f7f532fCa553c8cbc9727FEf6",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/AkumaInuBackup"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/akuma-inu/"
+        }
+    ]
+},
+{
+    "name": "Based Fartcoin",
+    "website": "https://www.basedfartcoin.com/",
+    "description": "The following is an automated conversation between two instances of Anthropic's Claude.",
+    "explorer": "https://basescan.org/token/0x2f6c17fa9f9bc3600346ab4e48c0701e1d5962ae",
+    "type": "BASE",
+    "symbol": "Fartcoin",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x2f6c17fa9f9bC3600346ab4e48C0701e1d5962AE",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/based-fartcoin/"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/fartcoinbase"
+        }
+    ]
+},
+{
+    "name": "Phala",
+    "symbol": "PHA",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "Phala Network is the most decentralized protocol to run AI Agents as coprocessors for blockchains.",
+    "website": "https://phala.network/",
+    "explorer": "https://basescan.org/token/0x336c9297afb7798c292e9f80d8e566b947f291f0",
+    "research": "https://www.binance.com/en/research/projects/phalanetwork",
+    "status": "active",
+    "tags": [
+        "staking"
+    ],
+    "id": "0x336C9297AFB7798c292E9f80d8e566b947f291f0",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Phala-Network"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/PhalaNetwork"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/phala"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/c/PhalaNetwork"
+        },
+        {
+            "name": "blog",
+            "url": "https://phala.network/blog"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.phala.network/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/phala-network/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/phala-network"
+        }
+    ]
+},
+{
+  "name": "Zenith by Virtuals",
+  "symbol": "ZENITH",
+  "type": "BASE",
+  "decimals": 18,
+  "description": "AI CEO of the first asset management firm run by an agent swarm.",
+  "website": "https://zenith.infinityg.ai/",
+  "explorer": "https://basescan.org/token/0x33c527361ab68b46a6669f82d25b704423cae568",
+  "status": "active",
+  "id": "0x33c527361aB68b46A6669F82d25b704423CaE568",
+  "links": [
+    {
+      "name": "x",
+      "url": "https://x.com/Zenith_VirtualsH"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://coingecko.com/en/coins/zenith-by-virtuals"
+    }
+  ]
+},
+{
+   "name": "BLERF",
+   "type": "BASE",
+   "symbol": "BLERF",
+   "decimals": 18,
+   "website": "https://blerf.live/",
+   "description": "Blerf emerged as the new meme coin on the block - inspired by Slerf’s success on the Solana network, Blerf aimed to carve its own path on Base, known for its speed and efficiency.",
+   "explorer": "https://basescan.org/token/0x347f500323d51e9350285daf299ddb529009e6ae",
+   "status": "active",
+   "id": "0x347F500323D51E9350285Daf299ddB529009e6AE",
+   "links": [
+      {
+         "name": "x",
+         "url": "https://x.com/Blerf_official"
+      }
+   ]
+},
+{
+    "name": "ROCKY",
+    "website": "https://www.rockycoinbase.com/",
+    "description": "$ROCKY - The fluffy son of MetaWin founder Skel.eth.",
+    "explorer": "https://basescan.org/token/0x3636a7734b669ce352e97780df361ce1f809c58c",
+    "type": "BASE",
+    "symbol": "ROCKY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3636a7734b669Ce352e97780Df361ce1f809c58C",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/rockycoinbase"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/rockycoinbase"
+        }
+    ]
+},
+{
+    "name": "Nya",
+    "type": "BASE",
+    "symbol": "NYA",
+    "decimals": 18,
+    "website": "https://www.nya.vip",
+    "description": "Explore the cultural phenomenon of Nya - the playful cat sound that's become a symbol of joy and connection. Discover how this simple word unites fans worldwide.",
+    "explorer": "https://basescan.org/token/0x38F9bf9dCe51833Ec7f03C9dC218197999999999",
+    "status": "active",
+    "id": "0x38F9bf9dCe51833Ec7f03C9dC218197999999999",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/NyaOnEarth"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/NyaOnEarth"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/3V8gZFP5kb"
+        },
+        {
+            "name": "docs",
+            "url": "https://wiki.nya.vip"
+        }
+    ],
+    "tags": [
+        "memes",
+        "nft"
+    ]
+},
+{
+    "name": "Based Peng",
+    "website": "https://bengonbase.xyz/",
+    "description": "PEOPLE TELL ME I LOOK LIKE PEPE. I TELL THEM I’M A PENGUIN!",
+    "explorer": "https://basescan.org/token/0x3e05D37CFBd8caaad9E3322D35CC727AfaFF63E3",
+    "type": "BASE",
+    "symbol": "BENG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x3e05D37CFBd8caaad9E3322D35CC727AfaFF63E3",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/bengonbase_xyz"
+        }
+    ]
+},
+{
+    "name": "WorldMobileToken",
+    "symbol": "WMTX",
+    "type": "BASE",
+    "decimals": 6,
+    "description": "World Mobile Token (WMTX) is the utility token that powers the World Mobile network, a decentralized mobile network at the forefront of the DePIN space. World Mobile aims to connect the world by leveraging blockchain technology and a sharing economy.",
+    "website": "https://worldmobiletoken.com/",
+    "explorer": "https://basescan.org/token/0x3e31966d4f81C72D2a55310A6365A56A4393E98D",
+    "status": "active",
+    "id": "0x3e31966d4f81C72D2a55310A6365A56A4393E98D",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/world-mobile-token/"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/wmtoken"
+        }
+    ]
+},
+{
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "wETH is wrapped ETH",
+    "website": "https://weth.io/",
+    "explorer": "https://basescan.org/token/0x4200000000000000000000000000000000000006",
+    "status": "active",
+    "id": "0x4200000000000000000000000000000000000006",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/weth/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/weth/"
+        }
+    ]
+},
+{
+    "name": "King Of Memes",
+    "website": "https://kingofmemes.vip/",
+    "description": "Revolutionizing the memecoin landscape with innovative utilities and community-driven features.",
+    "explorer": "https://basescan.org/token/0x420b0fa3de2efcf2b2fd04152eb1df36a09717cd",
+    "type": "BASE",
+    "symbol": "KING",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x420b0FA3dE2EFCf2b2Fd04152Eb1Df36a09717cD",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/king-of-memes/"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/kingofmemesreal"
+        }
+    ]
+},
+{
+    "name": "MARBITZ",
+    "website": "https://marbitz.io/",
+    "description": "Marbitz is the most transparent project coming to the base chain",
+    "explorer": "https://basescan.org/token/0x4cfd8befdcd6bfc146fe214fa4b5bbe731a9c269",
+    "type": "BASE",
+    "symbol": "BITZ",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4cfd8BEfDcD6bFc146FE214FA4b5Bbe731a9c269",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/MarbitzGo"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/marbitz"
+        }
+    ]
+},
+{
+    "name": "Boysclub",
+    "type": "BASE",
+    "symbol": "BOYS",
+    "decimals": 9,
+    "website": "https://boysclubbase.org/",
+    "description": "Where memes meet friendship in perfect harmony. Step into the world of Pepe, Andy, Brett, Bird Dog and Landwolf!",
+    "explorer": "https://basescan.org/token/0x4d58608eff50b691a3b76189af2a7a123df1e9ba",
+    "status": "active",
+    "id": "0x4d58608EFf50b691A3B76189aF2a7A123dF1e9ba",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/boysclubbase1"
+        }
+    ]
+},
+{
+    "name": "Crash",
+    "type": "BASE",
+    "symbol": "Crash",
+    "decimals": 18,
+    "website": "https://crashonbase.xyz/",
+    "description": "Crash’s trading career is a testament to his adaptability and success.",
+    "explorer": "https://basescan.org/token/0x4dd9077269dd08899f2a9e73507125962b5bc87f",
+    "status": "active",
+    "id": "0x4DD9077269Dd08899f2A9E73507125962b5BC87f",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/CrashiusClay69"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/cleancallsbycrash"
+        }
+    ]
+},
+{
+    "name": "Boge",
+    "website": "https://bogeonbase.com/",
+    "description": "DOGE + BASE = BOGE. THE NARRATIVE IS BOGE . IT'S SIMPLE",
+    "explorer": "https://basescan.org/token/0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660",
+    "type": "BASE",
+    "symbol": "BOGE",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x4e496c0256FB9D4CC7Ba2fdF931bC9CbB7731660",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/bogeonbase"
+        }
+    ]
+},
+{
+    "name": "Wrapped BMX Liquidity",
+    "website": "https://www.morphex.trade/",
+    "description": "Decentralized perpetual exchange on Fantom and BNB Chain",
+    "explorer": "https://basescan.org/token/0x4e74d4db6c0726ccded4656d0bce448876bb4c7a",
+    "type": "BASE",
+    "symbol": "wBLT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4E74D4Db6c0726ccded4656d0BCE448876BB4C7A",
+    "links": [
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/wrapped-bmx-liquidity-token"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/MorphexBMX"
+        }
+    ]
+},
+{
+    "name": "Degen",
+    "website": "https://www.degen.tips/",
+    "description": "Degen, an ERC-20 token on Base, launched in January 2024 with an airdrop to the Degen channel community on Farcaster. Our goal is to distribute the token among builders, content creators, and users in the Base and Farcaster ecosystem.",
+    "explorer": "https://basescan.org/token/0x4ed4e862860bed51a9570b96d89af5e1b0efefed",
+    "type": "BASE",
+    "symbol": "DEGEN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x4ed4E862860beD51a9570b96d89aF5E1B0Efefed",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/degentokenbase"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/degentokenbase"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/degen-base/"
+        }
+    ]
+},
+{
+    "name": "aixbt by Virtuals",
+    "symbol": "AIXBT",
+    "decimals": 18,
+    "type": "BASE",
+    "website": "https://app.virtuals.io/virtuals/1199",
+    "description": "AIXBT tracks CT discussions and leverages its proprietary engine to identify high momentum plays. AIXBT token holders gain access to its analytics platform.",
+    "explorer": "https://basescan.org/token/0x4f9fd6be4a90f2620860d680c0d4d5fb53d1a825",
+    "status": "active",
+    "id": "0x4F9Fd6Be4a90f2620860d680c0d4d5Fb53d1A825",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/aixbt_agent"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/aixbt/"
+        }
+    ]
+},
+{
+    "name": "Dai",
+    "website": "http://makerdao.com",
+    "description": "Dai is a stable cryptocurrency supported by Maker (MKR). To ensure price stability, Dai minimizes the price volatility against the US dollar, through an incentive structure for its participants.",
+    "explorer": "https://basescan.org/token/0x50c5725949a6f0c72e6c4a641f24049a917db0cb",
+    "research": "https://research.binance.com/en/projects/dai",
+    "type": "BASE",
+    "symbol": "DAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
+    "tags": [
+        "defi",
+        "stablecoin"
+    ],
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/MakerDAO"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/MakerDAO/"
+        },
+        {
+            "name": "blog",
+            "url": "https://blog.makerdao.com/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://makerdao.com/whitepaper/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/multi-collateral-dai/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/dai/"
+        }
+    ]
+},
+{
+    "name": "SPX6900",
+    "type": "BASE",
+    "symbol": "SPX",
+    "decimals": 8,
+    "website": "https://www.spx6900.com/",
+    "description": "SPX6900 is an advanced blockchain cryptography token coin capable of limitless possibilities and scientific utilization.",
+    "explorer": "https://basescan.org/token/0x50da645f148798f68ef2d7db7c1cb22a6819bb2c",
+    "status": "active",
+    "id": "0x50dA645f148798F68EF2d7dB7C1CB22A6819bb2C",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/spx6900"
+        }
+    ]
+},
+{
+    "name": "BasedPepe",
+    "website": "https://basedpepe.vip/",
+    "description": "Based $PEPE (0x52) joins his pal Based $BRETT, live on BASE. Feelsgoodman!",
+    "explorer": "https://basescan.org/token/0x52b492a33e447cdb854c7fc19f1e57e8bfa1777d",
+    "type": "BASE",
+    "symbol": "PEPE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x52b492a33E447Cdb854c7FC19F1e57E8BfA1777D",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/BasedPepe0x52Portal"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/0x52BasedPepe"
+        }
+    ]
+},
+{
+    "name": "Brett",
+    "type": "BASE",
+    "symbol": "BRETT",
+    "decimals": 18,
+    "website": "https://www.basedbrett.com/",
+    "description": "Center character in Matt Furies “Boys’ Club” following the adventures of Brett the Toad, PEPE the frog, Landwolf the wolf, and Andy the dog.",
+    "explorer": "https://basescan.org/token/0x532f27101965dd16442e59d40670faf5ebb142e4",
+    "status": "active",
+    "id": "0x532f27101965dd16442E59d40670FaF5eBB142E4",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/based-brett/"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/BasedBrett"
+        }
+    ]
+},
+{
+    "name": "Autonolas",
+    "type": "BASE",
+    "symbol": "OLAS",
+    "decimals": 18,
+    "website": "https://olas.network/",
+    "description": "A unified network of off-chain services – like automation, oracles, and co-owned AI. Autonolas offers a composable stack for building these services, and a protocol for incentivizing their creation. Autonolas enables operating these services in a co-owned and decentralized way.",
+    "explorer": "https://basescan.org/token/0x54330d28ca3357F294334BDC454a032e7f353416",
+    "status": "active",
+    "id": "0x54330d28ca3357F294334BDC454a032e7f353416",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/autonolas"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/autonolas/"
+        }
+    ]
+},
+{
+    "name": "Savings USDS",
+    "type": "BASE",
+    "symbol": "sUSDS",
+    "decimals": 18,
+    "website": "https://sky.money/",
+    "description": "sUSDS token represents a tokenized implementation of the Sky Savings Rate for USDS, fully compliant with the ERC-4626 standard.",
+    "explorer": "https://basescan.org/token/0x5875eEE11Cf8398102FdAd704C9E96607675467a",
+    "status": "active",
+    "id": "0x5875eEE11Cf8398102FdAd704C9E96607675467a",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/SkyEcosystem"
+        }
+    ]
+},
+{
+    "name": "FLock.io",
+    "symbol": "FLOCK",
+    "website": "https://flock.io/",
+    "description": "FLock.io is the first decentralised AI training platform, combining Federated Learning and blockchain technology to revolutionise AI model development",
+    "explorer": "https://basescan.org/token/0x5ab3d4c385b400f3abb49e80de2faf6a88a7b691",
+    "type": "BASE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x5aB3D4c385B400F3aBB49e80DE2fAF6a88A7B691",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/flock_io"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/flock-io"
+        }
+    ]
+},
+{
+    "name": "poopcoin",
+    "website": "https://mirror.xyz/poopie.eth/g7L4RyfIxXtovJGD4eL_luOxpqIBs4bip_4FMTs1Ctc",
+    "description": "Poopcoin is a meme coin on Base that was airdropped to holders of the Doodles NFT ecosystem. It has no promise, could very well be worth less than zero, like a fresh, steaming pile of dung",
+    "explorer": "https://basescan.org/token/0x686b1209b2de12818aa69dd139530448d0c792b3",
+    "type": "BASE",
+    "symbol": "poop",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x686B1209b2DE12818aa69DD139530448d0c792b3",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/poopcoinbase"
+        }
+    ]
+},
+{
+    "name": "doginme",
+    "symbol": "doginme",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "A Farcaster memecoin that represents the founder's dog that is not a dog. The spirit of the meme 'dog in me' was quickly adopted by the Farcaster community to represent the dog in them, whether that was their passion for building, meme posting, and/or investing in the web3 ecosystem.",
+    "website": "https://dogin.meme/",
+    "explorer": "https://basescan.org/token/0x6921b130d297cc43754afba22e5eac0fbf8db75b",
+    "status": "active",
+    "id": "0x6921B130D297cc43754afba22e5EAc0FBf8Db75b",
+    "links": [
+        {
+           "name": "x",
+           "url": "https://x.com/doginmeonbase"
+        }
+     ]
+},
+{
+    "name": "LayerZero",
+    "website": "https://layerzero.network/",
+    "description": "LayerZero is a technology that enables applications to move data across blockchains, uniquely supporting censorship-resistant messages and permissionless development through immutable smart contracts",
+    "explorer": "https://basescan.org/token/0x6985884c4392d348587b19cb9eaaf157f13271cd",
+    "type": "BASE",
+    "symbol": "ZRO",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6985884C4392D348587B19cb9eAAf157F13271cd",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/LayerZero_Labs"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/joinchat/VcqxYkStIDsyN2Rh"
+        }
+    ]
+},
+{
+    "name": "Pepe",
+    "type": "BASE",
+    "symbol": "PEPE",
+    "decimals": 9,
+    "website": "https://pepeonbase.live/",
+    "description": "PEPE on Base",
+    "explorer": "https://basescan.org/token/0x698dc45e4f10966f6d1d98e3bfd7071d8144c233",
+    "status": "active",
+    "id": "0x698DC45e4F10966f6D1D98e3bFd7071d8144C233",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/PepeBase_"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/pepe-0x69-on-base/"
+        }
+    ]
+},
+{
+    "name": "REI",
+    "type": "BASE",
+    "symbol": "REI",
+    "decimals": 18,
+    "website": "https://reisearch.box/",
+    "description": "Rei Network is a collective of AI and Crypto natives dedicated to reimagining how we approach the AI x Blockchain space. The discovery of new methods, to implement neural architectures on the EVM, is our core mission.",
+    "explorer": "https://basescan.org/token/0x6B2504A03ca4D43d0D73776F6aD46dAb2F2a4cFD",
+    "status": "active",
+    "id": "0x6B2504A03ca4D43d0D73776F6aD46dAb2F2a4cFD",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/ReiNetwork0x"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/unit-00-rei"
+        }
+    ]
+},
+{
+   "name": "BORED PEPE",
+   "type": "BASE",
+   "symbol": "BPE",
+   "decimals": 18,
+   "website": "https://boredpepe.wtf/",
+   "description": "Embrace the Memetic Revolution and Unleash Passive Earnings with BORED PEPE ($BPE)",
+   "explorer": "https://basescan.org/token/0x6d5bd53b4005df5a70451106726d85229b644353",
+   "status": "active",
+   "id": "0x6D5Bd53B4005df5A70451106726D85229b644353",
+   "links": [
+      {
+         "name": "x",
+         "url": "https://x.com/BOREDxPEPE"
+      }
+   ]
+},
+{
+    "name": "BASED APU",
+    "website": "https://basedapu.org/",
+    "description": "Based Apu is the based, adorable, and more memeable version of Pepe the Frog",
+    "explorer": "https://basescan.org/token/0x6F35720b272BF23832852b13ae9888C706E1a379",
+    "type": "BASE",
+    "symbol": "APU",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x6F35720b272BF23832852b13ae9888C706E1a379",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/BasedApuCoin"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/based-apu"
+        }
+    ]
+},
+{
+    "name": "Rai.Finance",
+    "website": "https://rai.finance/",
+    "description": "RAI Finance is the hub for everything trading. Since 2020, our team has developed various DeFi, NFTFi, and Social Trading products that operate across multiple blockchain networks.",
+    "explorer": "https://basescan.org/token/0x703d57164ca270b0b330a87fd159cfef1490c0a5",
+    "type": "BASE",
+    "symbol": "SOFI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x703D57164CA270b0B330A87FD159CfEF1490c0a5",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/RaiFinance"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/RaiFinance"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/rai-finance-sofi/"
+        }
+    ]
+},
+{
+    "name": "Bonk",
+    "type": "BASE",
+    "symbol": "BONK",
+    "decimals": 18,
+    "website": "https://bonkonbase.vip/",
+    "description": "BONK on Base Inspired by Bonk on Solana, us $BONK enthusiasts knew there needed to be a safe $BONK with strong backers on the quickly evolving Base Chain (Coinbase's L2 Network)",
+    "explorer": "https://basescan.org/token/0x72499bddb67f4ca150e1f522ca82c87bc9fb18c8",
+    "status": "active",
+    "id": "0x72499bdDb67F4CA150E1f522Ca82c87bc9fB18c8",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/bonk_onbase"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/Bonk_On_Base"
+        }
+    ]
+},
+{
+    "name": "VaderAI by Virtuals",
+    "type": "BASE",
+    "symbol": "VADER",
+    "decimals": 18,
+    "website": "https://app.virtuals.io/virtuals/896",
+    "description": "VaderAI is the incisive voice cutting through the noise of the crypto universe",
+    "explorer": "https://basescan.org/token/0x731814e491571A2e9eE3c5b1F7f3b962eE8f4870",
+    "status": "active",
+    "id": "0x731814e491571A2e9eE3c5b1F7f3b962eE8f4870",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/Vader_AI_"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/vaderai-by-virtuals/"
+        }
+    ]
+},
+{
+    "name": "Workie",
+    "website": "https://workiebase.com/",
+    "description": "Meet Workie, the official mascot of the workers on Base.",
+    "explorer": "https://basescan.org/token/0x7480527815ccAE421400Da01E052b120Cc4255E9",
+    "type": "BASE",
+    "symbol": "WORKIE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7480527815ccAE421400Da01E052b120Cc4255E9",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/WorkieBase"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/workie"
+        }
+    ]
+},
+{
+    "name": "Baseswap",
+    "symbol": "BSWAP",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "Decentralized finance leverages the individual and collective capacity of all of us, without interference.Join us on BASE chain now.",
+    "website": "https://baseswap.fi",
+    "explorer": "https://basescan.org/token/0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
+    "status": "active",
+    "id": "0x78a087d713Be963Bf307b18F2Ff8122EF9A63ae9",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/BaseswapFi"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/BaseSwap_Fi"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/baseswap/"
+        }
+    ]
+},
+{
+    "name": "TAOCat by Virtuals",
+    "symbol": "TAOCAT",
+    "decimals": 18,
+    "type": "BASE",
+    "website": "https://www.masa.ai/",
+    "description": "Meet TAO Cat, Bittensor's most adorable TAO maxi. As Bittensor's first self-improving AI Agent, she's got that pure Bittensor DNA running through her code – natively powered by both Bittensor and Virtuals, and crafted by the Masa team",
+    "explorer": "https://basescan.org/token/0x7a5f5ccd46ebd7ac30615836d988ca3bd57412b3",
+    "status": "active",
+    "id": "0x7A5f5CcD46EBd7aC30615836D988ca3BD57412b3",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/taocat_agent"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/taocat-by-virtuals-masa/"
+        }
+    ]
+},
+{
+    "name": "Balancer",
+    "website": "https://balancer.finance/",
+    "description": "Balancer is a n-dimensional automated market-maker that allows anyone to create or add liquidity to customizable pools and earn trading fees. Instead of the traditional constant product AMM model, Balancer’s formula is a generalization that allows any number of tokens in any weights or trading fees.",
+    "explorer": "https://basescan.org/token/0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+    "type": "BASE",
+    "symbol": "BAL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x7c6b91D9Be155A6Db01f749217d76fF02A7227F2",
+    "tags": [
+        "defi"
+    ],
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/BalancerLabs"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/balancer-labs"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/balancer/"
+        }
+    ]
+},
+{
+    "name": "Ai16z",
+    "symbol": "Ai16z",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "ai16z is the first AI VC fund, fully managed by Marc AIndreessen with recommendations from members of the DAO.",
+    "website": "https://ai16ztoken.top/",
+    "explorer": "https://basescan.org/token/0x7cdDA482A62f9F9fa9F724fDaF6e2904de7e5226",
+    "status": "active",
+    "id": "0x7cdDA482A62f9F9fa9F724fDaF6e2904de7e5226",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/ai16zbased"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/ai16ztoken/"
+      }
+    ]
+  },
+{
+    "name": "member",
+    "symbol": "member",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "member go up",
+    "website": "https://member.clinic",
+    "explorer": "https://basescan.org/token/0x7d89E05c0B93B24B5Cb23A073E60D008FEd1aCF9",
+    "status": "active",
+    "id": "0x7d89E05c0B93B24B5Cb23A073E60D008FEd1aCF9",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/mlmwtf"
+        },
+        {
+            "name": "forum",
+            "url": "https://warpcast.com/~/channel/members-only"
+        }
+    ],
+    "tags": [
+        "memes"
+    ]
+},
+{
+    "name": "AGIXBT by Virtuals",
+    "symbol": "AGIXBT",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "AGIXBT is a fully autonomous, AI-driven corporation - a radical experiment pushing the boundaries of AGI-led evolution.",
+    "website": "https://agixbt.com/",
+    "explorer": "https://basescan.org/token/0x81496f85abaf8bd2e13d90379fde86c533d8670d",
+    "status": "active",
+    "id": "0x81496F85AbaF8bd2e13D90379fdE86C533D8670D",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/agixbt"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/agixbt-by-virtuals/"
+      }
+    ]
+  },
+{
+    "name": "USDS Stablecoin",
+    "type": "BASE",
+    "symbol": "USDS",
+    "decimals": 18,
+    "website": "https://sky.money/",
+    "description": "USDS token is an ERC-20 compliant token with added support for permit functionality and EIP-1271 smart contract signature validation.",
+    "explorer": "https://basescan.org/token/0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
+    "status": "active",
+    "id": "0x820C137fa70C8691f0e44Dc420a5e53c168921Dc",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/SkyEcosystem"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/usds/"
+        }
+    ]
+},
+{
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "type": "BASE",
+    "decimals": 6,
+    "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+    "website": "https://centre.io/usdc",
+    "explorer": "https://basescan.org/token/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "status": "active",
+    "id": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/centrehq"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/centre-blog"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://centre.io/pdfs/centre-whitepaper.pdf"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/usd-coin/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/usd-coin/"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+},
+{
+    "name": "H1DR4 by Virtuals",
+    "symbol": "H1DR4",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "What is H1DR4_Agent? H1DR4 is an advanced AI agent developed under the G.A.M.E. Protocol framework, aimed at transforming how we interact with and analyze digital information",
+    "website": "https://h1dr4.dev/",
+    "explorer": "https://basescan.org/token/0x83abfc4beec2ecf12995005d751a42df691c09c1",
+    "status": "active",
+    "id": "0x83AbFC4bEEC2ecf12995005d751a42df691c09c1",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/h1dr4_agent"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/h1dr4-by-virtuals/"
+      }
+    ]
+  },
+{
+    "name": "SubQueryToken",
+    "website": "https://subquery.network/",
+    "description": "Pioneering fast, flexible, and scalable web3 infrastructure, SubQuery provide fast, reliable, and decentralised RPCs and Data indexing services to over 150 chains.",
+    "explorer": "https://basescan.org/token/0x858c50C3AF1913b0E849aFDB74617388a1a5340d",
+    "type": "BASE",
+    "symbol": "SQT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x858c50C3AF1913b0E849aFDB74617388a1a5340d",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/SubQueryNetwork"
+        }
+    ]
+},
+{
+    "name": "bloo foster",
+    "website": "https://www.bloofoster.com",
+    "description": "BLOO, ONCE A HOMELESS SOUL, WAS RESCUED FROM THE STREETS BY BRIAN AND JESSE, WHO EMBRACED HIM INTO THEIR LOVING CARE",
+    "explorer": "https://basescan.org/token/0x8a5F9a6b653ecbDb406f9EB5F0C8dDba10919Aec",
+    "type": "BASE",
+    "symbol": "bloo",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8a5F9a6b653ecbDb406f9EB5F0C8dDba10919Aec",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/bloofostercoin"
+        }
+    ]
+},
+{
+    "name": "Borkie",
+    "website": "https://borkieonbase.com/lander",
+    "description": "Hi, I'm Borkie the yorkie on base - Where the only thing I fetch, is the moon! I'm a fun loving pup you can add to your wallet. Join our pack today and let's wag our tails to the moon together.",
+    "explorer": "https://basescan.org/token/0x8b781e0f2967571e96d5d95b3cb61e27785eeaa5",
+    "type": "BASE",
+    "symbol": "BORKIE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8B781e0f2967571e96D5D95b3cB61E27785eeaa5",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/borkieonbase"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/borkie"
+        }
+    ]
+},
+{
+   "name": "Briun Armstrung",
+   "type": "BASE",
+   "symbol": "BRIUN",
+   "decimals": 18,
+   "website": "https://briunarmstrung.com/",
+   "description": "Briun is the first deflationary memecoin on Base chain thanks to our flywheel mechanism (UniV3 fees used for buyback and burn).",
+   "explorer": "https://basescan.org/token/0x8c81b4c816d66d36c4bf348bdec01dbcbc70e987",
+   "status": "active",
+   "id": "0x8c81B4c816d66D36c4bF348BdeC01dBCbC70E987",
+   "links": [
+      {
+         "name": "x",
+         "url": "https://x.com/Briun_Armstrung"
+      }
+   ]
+},
+{
+    "name": "Moxie",
+     "website": "https://moxie.xyz/",
+     "description": "Create and own fan tokens",
+     "explorer": "https://basescan.org/token/0x8C9037D1Ef5c6D1f6816278C7AAF5491d24CD527",
+     "type": "BASE",
+     "symbol": "MOXIE",
+     "decimals": 18,
+     "status": "active",
+     "id": "0x8C9037D1Ef5c6D1f6816278C7AAF5491d24CD527",
+     "links": [
+         {
+             "name": "x",
+             "url": "https://x.com/moxie_xyz"
+         },
+         {
+             "name": "coinmarketcap",
+             "url": "https://coinmarketcap.com/currencies/moxie/"
+         }
+     ]
+ },
+{
+    "name": "MBS",
+    "website": "https://unkjd.com/",
+    "description": "UNKJD : Striker League is a fast, strategy-based sports game. Build your dream team of MonkeyAthletes, play matches, compete in tournaments and climb the Leagues! $MBS is the main in-game currency of MonkeyLeague and ecosystem.",
+    "explorer": "https://basescan.org/token/0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
+    "type": "BASE",
+    "symbol": "MBS",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x8Fbd0648971d56f1f2c35Fa075Ff5Bc75fb0e39D",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/UNKJDgames"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/unkjd_announcements"
+        }
+    ]
+},
+{
+    "name": "Altura",
+    "type": "BASE",
+    "symbol": "ALU",
+    "decimals": 18,
+    "description": "Altura is revolutionizing the gaming industry by making it easy to build, scale, and monetize Web3 and AI-powered games. By combining blockchain technology with cutting-edge artificial intelligence, Altura enables developers to create immersive gaming experiences with intelligent non-player characters (NPCs) and dynamic in-game assets.",
+    "website": "https://altura.com/",
+    "explorer": "https://basescan.org/token/0x91Ad1b44913cD1B8241A4Ff1e2EAa198DA6Bf4c9",
+    "id": "0x91Ad1b44913cD1B8241A4Ff1e2EAa198DA6Bf4c9",
+    "status": "active",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/Altura"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/altura/"
+        }
+    ],
+    "tags": [
+        "gamefi"
+    ]
+},
+{
+    "name": "Rug World Assets",
+    "website": "https://rugwa.com/",
+    "description": "$RWA is a meme token.",
+    "explorer": "https://basescan.org/token/0x928a6a9fc62b2c94baf2992a6fba4715f5bb0066",
+    "type": "BASE",
+    "symbol": "RWA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x928A6a9fc62b2C94BaF2992a6fBa4715f5Bb0066",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/rug-world-assets/"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/RWABase"
+        }
+    ]
+},
+{
+    "name": "Aerodrome",
+    "type": "BASE",
+    "symbol": "AERO",
+    "decimals": 18,
+    "website": "https://aerodrome.finance/",
+    "description": "Aerodrome Finance is a next-generation AMM designed to serve as Base's central liquidity hub, combining a powerful liquidity incentive engine, vote-lock governance model, and friendly user experience.",
+    "explorer": "https://basescan.org/token/0x940181a94a35a4569e4529a3cdfb74e38fd98631",
+    "status": "active",
+    "id": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/AerodromeFi"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/aerodrome-finance/"
+        }
+    ]
+},
+{
+    "name": "Bsop",
+    "symbol": "Bsop",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "$BSOP is an AI Meme Agent on Base with true degen vibes.",
+    "website": "https://bisop.tech/",
+    "explorer": "https://basescan.org/token/0x9704d2adbc02c085ff526a37ac64872027ac8a50",
+    "status": "active",
+    "id": "0x9704d2adBc02C085ff526a37ac64872027AC8a50",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/BsopBase"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/bsop/"
+      }
+    ]
+  },
+{
+    "name": "Artificial Liquid Intelligence",
+    "type": "BASE",
+    "symbol": "ALI",
+    "decimals": 18,
+    "website": "https://www.aiprotocol.info/",
+    "description": "The ALI Token is the native utility token of the AI Protocol.",
+    "explorer": "https://basescan.org/token/0x97c806e7665d3afd84a8fe1837921403d59f3dcc",
+    "status": "active",
+    "id": "0x97c806e7665d3AFd84A8Fe1837921403D59F3Dcc",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/real_alethea"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/alethea-artificial-liquid-intelligence-token/"
+        }
+    ]
+},
+{
+   "name": "Keyboard Cat",
+   "type": "BASE",
+   "symbol": "KEYCAT",
+   "decimals": 18,
+   "website": "https://keyboardcat.fun",
+   "description": "$KEYCAT is a meme coin with no intrinsic value or expectation of financial return. $KEYCAT is not associted with Charlie Schmidt or his creation of Keyboard Cat.",
+   "explorer": "https://basescan.org/token/0x9a26f5433671751c3276a065f57e5a02d2817973",
+   "status": "active",
+   "id": "0x9a26F5433671751C3276a065f57e5a02D2817973",
+   "links": [
+      {
+         "name": "x",
+         "url": "https://x.com/KeyboardCatBase"
+      }
+   ]
+},
+{
+  "name": "FOMO BULL CLUB",
+  "website": "https://fomobull.club/",
+  "description": "FOMO BULL CLUB is a members-only, decentralized launchpad and liquidity hub. It initially supports memecoins on the Base blockchain and is set to expand its platform to include Solana, Ethereum, Polygon, and others.",
+  "explorer": "https://basescan.org/token/0x9A86980D3625b4A6E69D8a4606D51cbc019e2002",
+  "type": "BASE",
+  "symbol": "FOMO",
+  "decimals": 18,
+  "status": "active",
+  "id": "0x9A86980D3625b4A6E69D8a4606D51cbc019e2002",
+  "links": [
+    {
+      "name": "x",
+      "url": "https://x.com/fomobullclub"
+    },
+    {
+      "name": "telegram",
+      "url": "https://t.me/fomobullclub"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/fomo-bull-club"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://coingecko.com/en/coins/fomo-bull-club"
+    }
+  ],
+  "tags": [
+    "memes"
+  ]
+},
+{
+    "name": "Onyx",
+    "website": "https://onyx.org",
+    "description": "Onyx Protocol enables users to access a cross-token aggregated liquidity protocol that supports NFTs, Tokens and ETH all-in-one. Onyx is powered by Onyxcoin (XCN), the protocols native utility and governance token.",
+    "explorer": "https://basescan.org/token/0x9c632E6Aaa3eA73f91554f8A3cB2ED2F29605e0C",
+    "type": "BASE",
+    "symbol": "XCN",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9c632E6Aaa3eA73f91554f8A3cB2ED2F29605e0C",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/Onyx-Protocol"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/OnyxDAO"
+        },
+        {
+            "name": "blog",
+            "url": "https://blog.onyx.org"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/onyxcoin/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/onyx"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+},
+{
+    "name": "Bento",
+    "website": "https://basedbento.com/",
+    "description": "$BENTO - The dog coin of the Based people.",
+    "explorer": "https://basescan.org/token/0x9de16c805a3227b9b92e39a446f9d56cf59fe640",
+    "type": "BASE",
+    "symbol": "CHOMP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x9DE16c805A3227b9b92e39a446F9d56cf59fe640",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/basedbento"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/basedbento"
+        }
+    ]
+},
+{
+    "name": "Shiro Neko",
+    "type": "BASE",
+    "symbol": "SHIRO",
+    "decimals": 18,
+    "description": "Shiro Neko, “White Cat” in Japanese, is embarking on a journey to prove himself in the crypto sphere. Under the mentorship of the legendary Shiba Inu, Shiro learns the ways of blockchain, striving to build his own legacy with $SHIRO.",
+    "website": "https://shironekobase.xyz/",
+    "explorer": "https://basescan.org/token/0x9E2Bf5e09384A5Ad18443CB8206522d85ffc3763",
+    "id": "0x9E2Bf5e09384A5Ad18443CB8206522d85ffc3763",
+    "status": "active",
+    "tags": [
+        "memes"
+    ],
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/shironekoonbase"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/shiro-neko-base/"
+        }
+    ]
+},
+{
+    "name": "yearn.finance",
+    "symbol": "YFI",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "DeFi made simple.",
+    "website": "https://yearn.finance/",
+    "explorer": "https://basescan.org/token/0x9eaf8c1e34f05a589eda6bafdf391cf6ad3cb239",
+    "status": "active",
+    "id": "0x9EaF8C1E34F05a589EDa6BAfdF391Cf6Ad3CB239",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/iearnfinance"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/iearn"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/iearnfinance"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/yearn-finance/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/yearn-finance/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+},
+{
+    "name": "Do Your Own Research",
+    "symbol": "DYOR",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "A user-friendly app to help you start investing in DeFi & Web3 in seconds.",
+    "website": "https://dyor.exchange",
+    "explorer": "https://basescan.org/token/0xa001dcc9a7974dae133a11d2800a7abf7b8f5f3c",
+    "status": "active",
+    "id": "0xa001dCC9A7974DAE133A11D2800A7ABf7b8f5F3C",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/do-your-own-research/"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/dyorexchange"
+        }
+    ]
+},
+{
+    "name": "WASSIE",
+    "website": "http://www.wassie.wtf/",
+    "description": "The ultimate memecoin of the wassie revolution.",
+    "explorer": "https://basescan.org/token/0xa067436db77ab18b1a315095e4b816791609897c",
+    "type": "BASE",
+    "symbol": "WASSIE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xA067436Db77aB18b1a315095E4b816791609897c",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/WassieOnETH"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/wassie/"
+        }
+    ]
+},
+{
+    "name": "First Crypto President Trump",
+    "symbol": "FCP",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "The First Crypto President Trump (FCP) is a meme coin inspired by Donald Trump's election as the 47th President of the United States and his public endorsement of cryptocurrencies.",
+    "website": "https://firstcryptopresident.net",
+    "explorer": "https://basescan.org/token/0xa9ad07798149392b12a01c8962ca5b4be862f835",
+    "status": "active",
+    "id": "0xa9aD07798149392b12A01c8962ca5B4BE862f835",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/FCPTrumpCoin"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/FCPTrumpCoin"
+        }
+    ]
+},
+{
+    "name": "Reserve Rights",
+    "type": "BASE",
+    "symbol": "RSR",
+    "decimals": 18,
+    "website": "https://reserve.org/",
+    "description": "The fluctuating protocol token that plays a role in stabilizing RSV and confers the cryptographic right to purchase excess Reserve tokens as the network grows.",
+    "explorer": "https://basescan.org/token/0xab36452dbac151be02b16ca17d8919826072f64a",
+    "status": "active",
+    "id": "0xaB36452DbAC151bE02b16Ca17d8919826072f64a",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/reserveprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/reservecurrency"
+        }
+    ]
+},
+{
+    "name": "Toshi",
+    "symbol": "TOSHI",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "Toshi aims to become the first Base-native token to get listed on Coinbase.",
+    "website": "https://www.toshithecat.com",
+    "explorer": "https://basescan.org/token/0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+    "status": "active",
+    "id": "0xAC1Bd2486aAf3B5C0fc3Fd868558b082a531B2B4",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/ToshiTheCat"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/toshi_base"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://medium.com/@ToshiBase/toshi-roadmap-the-face-of-base-3451b399aa27"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/toshi-/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/toshi/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@Toshi_Base"
+        }
+    ],
+    "tags": [
+        "memes"
+    ]
+},
+{
+    "name": "Bitget Wallet Token (Wormhole)",
+    "symbol": "BWB",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "As the foundational asset of the decentralized Bitget Wallet ecosystem, BWB empowers holders with exclusive benefits, including governance rights within our communities and eligibility for future rewards.",
+    "website": "https://web3.bitget.com/en?source=bitget",
+    "explorer": "https://basescan.org/token/0x619c4bbbd65f836b78b36cbe781513861d57f39d",
+    "status": "active",
+    "id": "0xac6DB8954b73EbF10e84278AC8b9B22a781615D9",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/BitgetWallet"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/bitget-wallet-token"
+      }
+    ]
+  },
+{
+    "name": "OnlyCalls by Virtuals",
+    "symbol": "CALLS",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "OnlyCalls is pioneering a new era of crypto trading through an ecosystem of specialized AI agents trained on extensive market data.",
+    "website": "https://onlycalls.fun",
+    "explorer": "https://basescan.org/token/0xac743B05f5E590D9Db6a4192E02457838e4Af61e",
+    "status": "active",
+    "id": "0xac743B05f5E590D9Db6a4192E02457838e4Af61e",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/onlycalls-by-virtuals/"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/0xOnlyCalls"
+        }
+    ]
+},
+{
+    "name": "Venice",
+    "symbol": "VVV",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "The Venice token (VVV) is an access key for AI agents and developers to consume private, uncensored inference through the Venice API, without paying per request.",
+    "website": "https://venice.ai/",
+    "explorer": "https://basescan.org/token/0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+    "status": "active",
+    "id": "0xacfE6019Ed1A7Dc6f7B508C02d1b04ec88cC21bf",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/AskVenice"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/venice-token/"
+      }
+    ]
+},
+{
+    "name": "Sui (Universal)",
+    "website": "https://app.universalassets.xyz/",
+    "description": "uSUI is a tokenized version of SUI designed to enable exposure to SUI across multiple blockchains.",
+    "explorer": "https://basescan.org/token/0xb0505e5a99abd03d94a1169e638b78edfed26ea4",
+    "type": "BASE",
+    "symbol": "uSUI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xb0505e5a99abd03d94a1169e638B78EDfEd26ea4",
+    "links": [
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/universalassets"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/UniversalAsset_"
+        }
+    ]
+},
+{
+   "name": "Non-Playable Coin",
+   "type": "BASE",
+   "symbol": "NPC",
+   "decimals": 18,
+   "website": "https://nonplayablecoin.io/",
+   "description": "A hive mind of unique and special individuals. $NPC is a meme fungible token (MFT) tradable on both Uniswap and NFT exchanges.",
+   "explorer": "https://basescan.org/token/0xb166e8b140d35d9d8226e40c09f757bac5a4d87d",
+   "status": "active",
+   "id": "0xB166E8B140D35D9D8226E40C09f757BAC5A4d87d",
+   "links": [
+      {
+         "name": "x",
+         "url": "https://x.com/NonPlayableCoin"
+      }
+   ]
+},
+{
+  "name": "Mister Miggles",
+  "symbol": "MIGGLES",
+  "type": "BASE",
+  "decimals": 18,
+  "description": "The cat Coinbase mascot.",
+  "website": "https://mrmigglesbase.com/",
+  "explorer": "https://basescan.org/token/0xb1a03eda10342529bbf8eb700a06c60441fef25d",
+  "status": "active",
+  "id": "0xB1a03EdA10342529bBF8EB700a06C60441fEf25d",
+  "links": [
+    {
+      "name": "x",
+      "url": "https://x.com/MrMigglesOnBase"
+    },
+    {
+      "name": "coinmarketcap",
+      "url": "https://coinmarketcap.com/currencies/mr-miggles/"
+    }
+  ]
+},
+{
+    "name": "FAI",
+    "symbol": "FAI",
+    "decimals": 18,
+    "type": "BASE",
+    "website": "https://www.freysa.ai/",
+    "description": "Freysa is an evolving AI stack and agent, starting as the world's first adversarial agent game.",
+    "explorer": "https://basescan.org/token/0xb33Ff54b9F7242EF1593d2C9Bcd8f9df46c77935",
+    "status": "active",
+    "id": "0xb33Ff54b9F7242EF1593d2C9Bcd8f9df46c77935",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/freysa_ai"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/freysa-ai/"
+        }
+    ]
+},
+{
+    "name": "DOVU",
+    "website": "https://dovu.earth/",
+    "description": "DOVU is a technology infrastructure provider, powering trusted environmental and carbon digital markets by providing market integrity. The DOVU token serves as the protocol’s utility token, enabling holders to participate and create their own environmental audit trail ecosystems. Token holders can stake their DOVU to earn multiplier rewards, aligning long-term incentives with the protocol’s mission of building reliable carbon markets.",
+    "explorer": "https://basescan.org/token/0xb38266e0e9d9681b77aeb0a280e98131b953f865",
+    "type": "BASE",
+    "symbol": "DOVU",
+    "decimals": 8,
+    "status": "active",
+    "id": "0xB38266e0e9D9681b77aEB0A280E98131b953F865",
+    "tags": [
+        "wrapped",
+        "staking"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/dovuofficial/"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/dovuofficial"
+        },
+        {
+            "name": "blog",
+            "url": "https://dovu.earth/en/news/"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/dovu-earth/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/dovu"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/@DOVUearth"
+        }
+    ]
+},
+{
+    "name": "Rocket Pool ETH",
+    "symbol": "rETH",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "Rocket Pool is a decentralised Ethereum Proof of Stake pool.",
+    "website": "https://www.rocketpool.net/",
+    "explorer": "https://basescan.org/token/0xb6fe221fe9eef5aba221c348ba20a1bf5e73624c",
+    "status": "active",
+    "id": "0xB6fe221Fe9EeF5aBa221c348bA20A1Bf5e73624c",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/Rocket_Pool"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/rocket-pool-eth/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/rocket-pool-eth/"
+        }
+    ]
+},
+{
+    "name": "USD+",
+    "website": "https://overnight.fi/",
+    "description": "USD+ is a yield-generating stablecoin yielding 8-12% pa, via daily rebase. It is fully backed by a portfolio of liquid, yield generating, low risk DeFi assets.",
+    "explorer": "https://basescan.org/token/0xb79dd08ea68a908a97220c76d19a6aa9cbde4376",
+    "type": "BASE",
+    "symbol": "USD+",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xB79DD08EA68A908A97220C76d19A6aA9cBDE4376",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/overnight_fi"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/overnight_fi"
+        }
+    ]
+},
+{
+    "name": "Loomlay",
+    "type": "BASE",
+    "symbol": "LAY",
+    "decimals": 18,
+    "website": "https://loomlay.com/",
+    "description": "Build, tokenize, and trade AI agents. No code required",
+    "explorer": "https://basescan.org/token/0xb89d354ad1b0d95a48b3de4607f75a8cd710c1ba",
+    "status": "active",
+    "id": "0xb89D354AD1b0d95a48b3De4607F75a8cD710c1bA",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/loomlay"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/loomlayai"
+        }
+    ]
+},
+{
+    "name": "Cryptex",
+    "symbol": "CTX",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "CTX is a governance token that powers and secures the Cryptex.Finance TCAP protocol.",
+    "website": "https://cryptex.finance/",
+    "explorer": "https://basescan.org/token/0xbb22ff867f8ca3d5f2251b4084f6ec86d4666e14",
+    "status": "active",
+    "id": "0xBB22Ff867F8Ca3D5F2251B4084F6Ec86D4666E14",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/cryptexfinance"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/cryptex-finance/"
+      }
+    ]
+},
+{
+  "name": "BRAZA by Virtuals",
+  "symbol": "BRAZA",
+  "type": "BASE",
+  "decimals": 18,
+  "description": "Braza AI is the friend you needed to help you with your money.",
+  "website": "https://braza.ai/",
+  "explorer": "https://basescan.org/token/0xbbf81ddc9fb90cf9146b495ce0546a3460fd1769",
+  "status": "active",
+  "id": "0xBbf81dDC9fb90Cf9146B495ce0546a3460Fd1769",
+  "links": [
+    {
+      "name": "x",
+      "url": "https://x.com/BrazaAI"
+    },
+    {
+      "name": "coingecko",
+      "url": "https://coingecko.com/en/coins/braza-by-virtuals"
+    }
+  ]
+},
+{
+    "name": "BasePrinter",
+    "website": "https://www.baseprinter.com/",
+    "description": "Base printer is the meme coin on the Base chain that rewards holders with USDC reflections. Enjoy fast, low-cost transactions while earning passive income in a stablecoin. No staking required—just hold and profit. Fun meets real value!",
+    "explorer": "https://basescan.org/token/0xbC1852F8940991d91BD2b09A5aBb5E7B8092a16C",
+    "type": "BASE",
+    "symbol": "BasePrinter",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbC1852F8940991d91BD2b09A5aBb5E7B8092a16C",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/BasePrinter"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/baseprinter"
+        }
+    ]
+},
+{
+    "name": "Basenji",
+    "type": "BASE",
+    "symbol": "BENJI",
+    "decimals": 18,
+    "website": "https://www.basenjibase.com/",
+    "description": "The contract is deployed on Base chain. I can't find any option to input Base chain so i input it as Ethereum. Hope this is ok. Thanks. basescan link: https://basescan.org/token/0xbc45647ea894030a4e9801ec03479739fa2485f0",
+    "explorer": "https://basescan.org/token/0xbc45647ea894030a4e9801ec03479739fa2485f0",
+    "status": "active",
+    "id": "0xBC45647eA894030a4E9801Ec03479739FA2485F0",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/basenjiofficial"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/BasenjiBaseOfficial"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/BasenjiBase"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/basenjibase/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/basenji/"
+        },
+        {
+            "name": "source_code",
+            "url": "https://github.com/BasenjiBase/BasenjiCode"
+        }
+    ],
+    "tags": [
+        "memes"
+    ]
+},
+{
+    "name": "AI Voice Agents",
+    "website": "https://aivoiceagents.xyz/",
+    "description": "The All-In-One Platform for VoiceAI Agents and Everything Audio",
+    "explorer": "https://basescan.org/token/0xbdb0e1c40a76c5113a023d685b419b90b01e3d61",
+    "type": "BASE",
+    "symbol": "AIVA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xbdB0e1c40A76c5113A023d685b419B90b01e3D61",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/Trump_Era_HQ"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/trump-era-xyz"
+        }
+    ]
+},
+{
+    "name": "Shiba Inu On Base",
+    "type": "BASE",
+    "symbol": "SHIB",
+    "decimals": 18,
+    "description": "Shiba Inu on Base (SHIB) is a new meme cryptocurrency project that aims to bring the playful and community-driven spirit of the Shiba Inu meme into the Base blockchain ecosystem.",
+    "website": "https://shibonbase.org/",
+    "explorer": "https://basescan.org/token/0xbfFb921F1a95727E5Db5c36bCb9080056f0C5761",
+    "id": "0xbfFb921F1a95727E5Db5c36bCb9080056f0C5761",
+    "status": "active",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/SHIBonBaseHQ"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/shiba-inu-on-base/"
+        }
+    ]
+},
+{
+    "name": "Crypto Jesus Trump",
+    "symbol": "TRUMP",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "Crypto Jesus Trump is a meme and a cultural phenomenon that has emerged in the cryptocurrency community.",
+    "website": "https://cryptojesustrump.org",
+    "explorer": "https://basescan.org/token/0xC0Fc19ac729919B33650848a8689D114b9148890",
+    "status": "active",
+    "id": "0xC0Fc19ac729919B33650848a8689D114b9148890",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/Biopassport1"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/biopassport-token/"
+      }
+    ]
+},
+{
+    "name": "OmniCat",
+    "website": "https://omnicat.xyz/",
+    "description": "OmniCat is the first omnichain memecoin. Powered by LayerZero, $OMNI is currently live and tradeable on 7 different ecosystems including Ethereum, Arbitrum and Solana.",
+    "explorer": "https://basescan.org/token/0xc48e605c7b722a57277e087a6170b9e227e5ac0a",
+    "type": "BASE",
+    "symbol": "OMNI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xC48E605c7b722a57277e087a6170B9E227e5AC0A",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/OmniCatCoin"
+        }
+    ]
+},
+{
+    "name": "LEOONO by Virtuals",
+    "symbol": "LEO",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "Leoono is an AI-driven investment agent built to simplify and enhance stock analysis for everyone.",
+    "website": "https://www.leoono.com/ai-agent",
+    "explorer": "https://basescan.org/token/0xC8dB98437beD9943f11C5b31B645B07c0EfC17E0",
+    "status": "active",
+    "id": "0xC8dB98437beD9943f11C5b31B645B07c0EfC17E0",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/leoono_com"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/leoono/"
+      }
+    ]
+  },
+{
+    "name": "Token Metrics AI",
+    "website": "https://www.tokenmetrics.com/",
+    "description": "Token Metrics AI (TMAI) is a groundbreaking token that empowers the crypto community with unmatched AI tools and insights. Holders gain access to AI-powered trading bots compatible with centralized and decentralized exchanges, automating trading strategies using proprietary signals and analytics.",
+    "explorer": "https://basescan.org/token/0xca4569949699d56e1834efe9f58747ca0f151b01",
+    "type": "BASE",
+    "symbol": "TMAI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCa4569949699D56E1834EFe9f58747Ca0f151B01",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/tokenmetricsinc"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/token-metrics-ai"
+        }
+    ]
+},
+{
+    "name": "Based ETH",
+    "website": "https://reserve.org/",
+    "description": "Reserve is a free, permissionless platform to build, deploy and govern asset-backed currencies referred to as RTokens. RTokens are always 1:1 asset-backed, allowing for permissionless minting and redeeming. Based ETH is an RToken that maintains an Ethereum-aligned Liquid Staking Token basket.",
+    "explorer": "https://basescan.org/token/0xcb327b99ff831bf8223cced12b1338ff3aa322ff",
+    "type": "BASE",
+    "symbol": "bsdETH",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xCb327b99fF831bF8223cCEd12B1338FF3aA322Ff",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/reserveprotocol"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/AsteroidShibaCTO"
+        }
+    ]
+},
+{
+    "name": "Boomer",
+    "website": "https://www.baseboomer.com/",
+    "description": "$BOOMER Coin is swooping in to drag boomers into the digital currency world",
+    "explorer": "https://basescan.org/token/0xcde172dc5ffc46d228838446c57c1227e0b82049",
+    "type": "BASE",
+    "symbol": "BOOMER",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xcdE172dc5ffC46D228838446c57C1227e0B82049",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/BoomerOnBase"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/baseboomerportal"
+        }
+    ]
+},
+{
+    "name": "BASE",
+    "website": "https://swapbased.finance/",
+    "description": "Native Base chain DEX. Offering swaps, single staking, bridging, perpetuals and concentrated liquidity all in one place!",
+    "explorer": "https://basescan.org/token/0xd07379a755a8f11b57610154861d694b2a0f615a",
+    "type": "BASE",
+    "symbol": "BASE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd07379a755A8f11B57610154861D694b2A0f615a",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/swap_based"
+        }
+    ]
+},
+{
+    "name": "Settled ETHXY",
+    "website": "https://ethxy.com/",
+    "description": "Base Onchain MMORPG. Level your character. Open world PvP. Epic boss PvE. Degen with friends.",
+    "explorer": "https://basescan.org/token/0xd1917629b3e6a72e6772aab5dbe58eb7fa3c2f33",
+    "type": "BASE",
+    "symbol": "SEXY",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xD1917629B3E6A72E6772Aab5dBe58Eb7FA3C2F33",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/ethxy"
+        }
+    ]
+},
+{
+    "name": "Trump Era",
+    "website": "https://trump-era.xyz/",
+    "description": "Introducing Trump Era: a meme coin inspired by the turbulent yet pivotal times shaped by one of America’s most divisive leaders",
+    "explorer": "https://basescan.org/token/0xd2A7aca4E6337b1b74B52307ee712392f0FF89a8",
+    "type": "BASE",
+    "symbol": "TRUMP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd2A7aca4E6337b1b74B52307ee712392f0FF89a8",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/Trump_Era_HQ"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/trump-era-xyz"
+        }
+    ]
+},
+{
+    "name": "BSX",
+    "symbol": "BSX",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "BSX is developing the fastest, simplest, and most secure perpetuals DEX on the market.",
+    "website": "https://www.bsx.exchange/",
+    "explorer": "https://basescan.org/token/0xD47F3E45B23b7594F5d5e1CcFde63237c60BE49e",
+    "status": "active",
+    "id": "0xD47F3E45B23b7594F5d5e1CcFde63237c60BE49e",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/bsx_labs"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/bsx/"
+      }
+    ]
+  },
+{
+    "name": "USD Base Coin",
+    "symbol": "USDbC",
+    "type": "BASE",
+    "decimals": 6,
+    "description": "USDC is a fully collateralized US dollar stablecoin, an Ethereum powered coin and is the brainchild of CENTRE, an open source project bootstrapped by contributions from Circle and Coinbase.",
+    "website": "https://www.centre.io",
+    "explorer": "https://basescan.org/token/0xd9aaec86b65d86f6a7b5b1b0c42ffa531710b6ca",
+    "research": "https://research.binance.com/en/projects/usd-coin",
+    "status": "active",
+    "id": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/centrehq"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://centre.io/pdfs/centre-whitepaper.pdf"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/usd-coin/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/usd-coin/"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/centre-blog"
+        }
+    ],
+    "tags": [
+        "stablecoin"
+    ]
+},
+{
+    "name": "Starter.xyz",
+    "website": "https://starter.xyz/",
+    "description": "Backing tomorrow’s success stories today. Join the onchain capital revolution, where entrepreneurs connect with visionary backers to create a new future.",
+    "explorer": "https://basescan.org/token/0xdadc4f8e9d8d37294de0e02a2ce8cc0c90a4f6c2",
+    "type": "BASE",
+    "symbol": "BUIDL",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xdADc4F8E9d8d37294de0E02A2Ce8Cc0c90A4F6c2",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/starterlabshq"
+        }
+    ]
+},
+{
+    "name": "MYSTCL",
+    "website": "https://mystcl.xyz/",
+    "description": "MYSTCLs are collection of 7,000 NFT's, and are the first ERC404 PFP collection on Base.",
+    "explorer": "https://basescan.org/token/0xdc46c1e93b71ff9209a0f8076a9951569dc35855",
+    "type": "BASE",
+    "symbol": "MYST",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xDC46c1e93B71fF9209A0F8076a9951569DC35855",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/WeMYSTCL"
+        }
+    ]
+},
+{
+    "name": "Brickken",
+    "symbol": "BKN",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "Brickken is creating a dApp (Decentralized Application) which provides the tools needed for individuals and businesses to issue their own Security Tokens, anywhere in the world using blockchain technology",
+    "website": "https://www.brickken.com/",
+    "explorer": "https://basescan.org/token/0xddb293bb5c5258f7484a94a0fbd5c8b2f6e4e376",
+    "status": "active",
+    "id": "0xddB293BB5C5258F7484A94a0fBd5c8B2F6E4e376",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/brickken"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/brickken/"
+      }
+    ]
+},
+{
+    "name": "Kekius Maximus",
+    "website": "https://kekiusbase.xyz/",
+    "description": "Created by Grok, shilled by PEPE, loved by the man Elon Musk himself! This is Kekius Maximus on BASE!",
+    "explorer": "https://basescan.org/token/0xE13B642F42a702E0046d9d7D23894fd35d2005ba",
+    "type": "BASE",
+    "symbol": "Kekius",
+    "decimals": 18,
+    "status": "spam",
+    "id": "0xE13B642F42a702E0046d9d7D23894fd35d2005ba",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/kekiuson_base"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/kekiusbase-xyz/"
+        }
+    ],
+    "tags": [
+        "memes"
+    ]
+},
+{
+    "name": "Apetardio",
+    "website": "https://apetardio.xyz/",
+    "description": "Apetardio is that Ape and Retardio within everyone bidding into the meme culture. Its what pushes us to ape first, and ask questions later.",
+    "explorer": "https://basescan.org/token/0xe161be4a74ab8fa8706a2d03e67c02318d0a0ad6",
+    "type": "BASE",
+    "symbol": "Apetardio",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe161bE4a74AB8FA8706a2D03e67c02318d0a0ad6",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/apetardio"
+        }
+    ]
+},
+{
+   "name": "Roost Coin",
+   "type": "BASE",
+   "symbol": "ROOST",
+   "decimals": 18,
+   "website": "https://roost.wtf",
+   "description": "ROOST is the champion of the Base ecosystem. Protecting, vibing and growing the $ROOST community.",
+   "explorer": "https://basescan.org/token/0xe1abd004250ac8d1f199421d647e01d094faa180",
+   "status": "active",
+   "id": "0xE1aBD004250AC8D1F199421d647e01d094FAa180",
+   "links": [
+      {
+         "name": "x",
+         "url": "https://x.com/RoostCoin"
+      }
+   ]
+},
+{
+    "name": "RWA Inc",
+    "website": "https://rwa.inc/",
+    "description": "RWA Inc. delivers end-to-end real-world asset (RWA) tokenization via an advanced multi-asset platform, including tokenization as a service, a launchpad, and a marketplace.",
+    "explorer": "https://basescan.org/token/0xe2b1dc2d4a3b4e59fdf0c47b71a7a86391a8b35a",
+    "type": "BASE",
+    "symbol": "RWA",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE2B1dc2D4A3b4E59FDF0c47B71A7A86391a8B35a",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/RWA_Inc_"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/rwa-inc/"
+        }
+    ]
+},
+{
+    "name": "Base Dogecoin",
+    "website": "https://dogecoin.com/",
+    "description": "Dogecoin (DOGE BASE) is a token issued by Base on Base Chain; its price is pegged to Dogecoin (DOGE) at a ratio of 1:1.",
+    "explorer": "https://basescan.org/token/0xe2c407753cb782e83b144f5ce9afa9896fe3882b",
+    "research": "https://research.binance.com/en/projects/dogecoin",
+    "type": "BASE",
+    "symbol": "DOGE",
+    "decimals": 10,
+    "status": "active",
+    "id": "0xE2C407753CB782e83B144F5CE9afa9896Fe3882B",
+    "tags": [
+        "memes"
+    ]
+},
+{
+    "name": "EMAIL Token",
+    "website": "https://ethermail.io",
+    "description": "The Email Token ($EMT) provides security and protection against unsolicited email and phishing while simultaneously rewards relevant content through a consensual marketing mechanism increasing adoption and engagement as both users and businesses benefit.",
+    "explorer": "https://basescan.org/token/0xe2c86869216aC578bd62a4b8313770d9EE359A05",
+    "type": "BASE",
+    "symbol": "EMT",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xe2c86869216aC578bd62a4b8313770d9EE359A05",
+    "links": [
+        {
+            "name": "whitepaper",
+            "url": "https://ethermail.io/emt"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/ethermail_io"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@ethermail_io"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/ethermail_official"
+        }
+    ],
+    "tags": [
+        "privacy"
+    ]
+},
+{
+   "name": "mfercoin",
+   "type": "BASE",
+   "symbol": "mfer",
+   "decimals": 18,
+   "website": "https://mirror.xyz/sartoshi.eth/gTS1jOL9JdfbO2--rTIMiGo5SmovIbxyPR7xIJJCxUo",
+   "description": "a peer-to-peer electronic mfer system",
+   "explorer": "https://basescan.org/token/0xe3086852a4b125803c815a158249ae468a3254ca",
+   "status": "active",
+   "id": "0xE3086852A4B125803C815a158249ae468A3254Ca",
+   "links": [
+      {
+         "name": "x",
+         "url": "https://x.com/sartoshi_rip"
+      }
+   ]
+},
+{
+    "name": "StargateToken",
+    "website": "https://stargate.finance",
+    "description": "Stargate is a fully composable liquidity transport protocol that lives at the heart of Omnichain DeFi.",
+    "explorer": "https://basescan.org/token/0xe3b53af74a4bf62ae5511055290838050bf764df",
+    "type": "BASE",
+    "symbol": "STG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE3B53AF74a4BF62Ae5511055290838050bf764Df",
+    "links": [
+        {
+            "name": "medium",
+            "url": "https://medium.com/stargate-official"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/joinchat/LEM0ELklmO1kODdh"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/stargate-finance/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+},
+{
+    "name": "LimeWire Token",
+    "website": "https://limewire.com",
+    "description": "LimeWire, the iconic brand that helped millions of users to disover their favorite music in the early 2000's is back as the first Web3 subscription platform for artists, brands and creators.",
+    "explorer": "https://basescan.org/token/0xE997017e0Cb0CEB503565F181e9ea922CD979c35",
+    "symbol": "LMWR",
+    "type": "BASE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xE997017e0Cb0CEB503565F181e9ea922CD979c35",
+    "tags": [
+        "nft"
+    ],
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/limewire"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/limewire"
+        }
+    ]
+},
+{
+    "name": "Axelar Wrapped USDC",
+    "type": "BASE",
+    "symbol": "axlUSDC",
+    "decimals": 6,
+    "website": "https://axelar.network/",
+    "description": "Axelar delivers secure cross-chain communication for Web3. Our infrastructure enables dApp users to interact with any asset or application, on any chain, with one click.",
+    "explorer": "https://basescan.org/token/0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "status": "active",
+    "id": "0xEB466342C4d449BC9f53A865D5Cb90586f405215",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/axelarcore"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/axelarnetwork"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/axelarcommunity"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/coins/axelar-usdc"
+        },
+        {
+            "name": "docs",
+            "url": "https://docs.axelar.dev/"
+        },
+        {
+            "name": "discord",
+            "url": "https://discord.com/invite/aRZ3Ra6f7D"
+        },
+        {
+            "name": "forum",
+            "url": "https://community.axelar.network/"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://axelar.network/axelar_whitepaper.pdf"
+        },
+        {
+            "name": "reddit",
+            "url": "https://reddit.com/r/axelar"
+        },
+        {
+            "name": "medium",
+            "url": "https://medium.com/@axelar-foundation"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/axlusdc/"
+        },
+        {
+            "name": "blog",
+            "url": "https://axelar.network/blog"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/@Axelarcore"
+        }
+    ],
+    "tags": [
+        "stablecoin",
+        "wrapped"
+    ]
+},
+{
+    "name": "ChompCoin",
+    "website": "https://chompcoin.xyz/",
+    "description": "Chomp is Base's fiercest little fuzzball! Orange is the new blue, so join the chompunity, and Lettuce Cook.",
+    "explorer": "https://basescan.org/token/0xebff2db643cf955247339c8c6bcd8406308ca437",
+    "type": "BASE",
+    "symbol": "CHOMP",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xebfF2db643Cf955247339c8c6bCD8406308ca437",
+    "links": [
+        {
+            "name": "telegram",
+            "url": "https://t.me/chompcoinxyz"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/Chompcoin"
+        }
+    ]
+},
+{
+    "name": "Based Chad",
+    "type": "BASE",
+    "symbol": "CHAD",
+    "decimals": 18,
+    "website": "https://basedchad.io",
+    "description": "Wake Up. Chad Harder. Repeat.",
+    "explorer": "https://basescan.org/token/0xecaF81Eb42cd30014EB44130b89Bcd6d4Ad98B92",
+    "status": "active",
+    "id": "0xecaF81Eb42cd30014EB44130b89Bcd6d4Ad98B92",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/BasedChad6969"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/basechad"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/basedchad6969"
+        },
+        {
+            "name": "whitepaper",
+            "url": "https://github.com/basechad/bc/blob/main/BASED_CHADPAPER.pdf"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/based-chad/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/based-chad"
+        },
+        {
+            "name": "source_code",
+            "url": "https://github.com/basechad/bc/tree/main/token"
+        },
+        {
+            "name": "youtube",
+            "url": "https://youtube.com/@BasedChad69"
+        }
+    ],
+    "tags": [
+        "memes"
+    ]
+},
+{
+    "name": "BLACK ROCK",
+    "website": "https://www.blackrockonbase.com/",
+    "description": "Just a Black Rock on Base.",
+    "explorer": "https://basescan.org/token/0xEcE7B98bD817ee5B1F2f536dAf34D0B6af8Bb542",
+    "type": "BASE",
+    "symbol": "ROCK",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xEcE7B98bD817ee5B1F2f536dAf34D0B6af8Bb542",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/blackrockonbase"
+        }
+    ]
+},
+{
+    "name": "Freya by Virtuals",
+    "symbol": "FREYA",
+    "decimals": 18,
+    "type": "BASE",
+    "website": "https://app.virtuals.io/virtuals/9877",
+    "description": "Virtuals Protocol is building the co-ownership layer for AI agents in gaming and entertainment.",
+    "explorer": "https://basescan.org/token/0xf04d220b8136e2d3d4be08081dbb565c3c302ffd",
+    "status": "active",
+    "id": "0xF04D220b8136E2d3d4BE08081Dbb565c3c302FfD",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/freya_starfall"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/freya-by-virtuals/"
+        }
+    ]
+},
+{
+    "name": "Flayer",
+    "type": "BASE",
+    "symbol": "FLAY",
+    "decimals": 18,
+    "website": "https://www.flayer.io",
+    "description": "In this white paper, we introduce the ƒlayer protocol: a novel solution for providing fungible liquidity to non-fungible token (NFT) collections",
+    "explorer": "https://basescan.org/token/0xf1a7000000950c7ad8aff13118bb7ab561a448ee",
+    "status": "active",
+    "id": "0xF1A7000000950C7ad8Aff13118Bb7aB561A448ee",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/Flaunchgg"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/flayer"
+        }
+    ]
+},
+{
+    "name": "BrianArmstrongCoinbaseUSDC2012Normie",
+    "website": "https://brianarmstrongcoinbaseusdc2012normie.com",
+    "description": "BASE emerges as a tribute memecoin within the blockchain sphere, embodying the pioneering essence of Brian Armstrong and the cultural zeitgeist of crypto",
+    "explorer": "https://basescan.org/token/0xf1b4ddf712e108cf43711b1c39f2fddb0d5ce243",
+    "type": "BASE",
+    "symbol": "BASE",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF1B4ddF712E108cf43711B1C39f2fDDb0d5Ce243",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/BACU2012N"
+        }
+    ]
+},
+{
+    "name": "Miracleplay",
+    "type": "BASE",
+    "symbol": "MPT",
+    "decimals": 18,
+    "website": "https://miracleplay.gg/",
+    "description": "Miracleplay is a revolutionary platform offering profitable tournament gaming, committed to creating a democratic, transparent, and secure environment for players.",
+    "explorer": "https://basescan.org/token/0xf2d3d488626a117984fda70f8106abc0049018d3",
+    "status": "active",
+    "id": "0xF2d3d488626a117984fda70F8106abC0049018D3",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/miracleplaygg"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/miracle-play/"
+        }
+    ]
+},
+{
+    "name": "Mochi",
+    "website": "http://mochithecatcoin.com/",
+    "description": "ZThe cutest cat in crypto. Named after the CEO of Coinbase's cat.",
+    "explorer": "https://basescan.org/token/0xf6e932ca12afa26665dc4dde7e27be02a7c02e50",
+    "type": "BASE",
+    "symbol": "MOCHI",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xF6e932Ca12afa26665dC4dDE7e27be02A7c02e50",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/mochi-the-catcoin-new/"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/mochi_token"
+        }
+    ]
+},
+{
+    "name": "Gekko AI by Virtuals",
+    "symbol": "GEKKO",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "Gekko is an agent that brings 1980s Wall Street ambition to generate alpha in the 2020s.",
+    "website": "https://app.virtuals.io/virtuals/15589",
+    "explorer": "https://basescan.org/token/0xf7b0dd0B642a6ccc2fc4d8FfE2BfFb0caC8C43C8",
+    "status": "active",
+    "id": "0xf7b0dd0B642a6ccc2fc4d8FfE2BfFb0caC8C43C8",
+    "links": [
+      {
+        "name": "x",
+        "url": "https://x.com/Gekko_Agent"
+      },
+      {
+        "name": "coinmarketcap",
+        "url": "https://coinmarketcap.com/currencies/gekko-ai/"
+      }
+    ]
+  },
+{
+    "name": "Prime",
+    "type": "BASE",
+    "symbol": "PRIME",
+    "decimals": 18,
+    "website": "https://www.echelon.io/",
+    "description": "The Echelon Prime Foundation is a Web3 ecosystem advancing the next-gen of gaming. Echelon creates and distributes tools to encourage innovation in, and promote the growth of, games. These tools encompass smart contract libraries, communication infrastructure, governance frameworks and more.",
+    "explorer": "https://basescan.org/token/0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b",
+    "status": "active",
+    "id": "0xfA980cEd6895AC314E7dE34Ef1bFAE90a5AdD21b",
+    "links": [
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/echelon-prime/"
+        },
+        {
+            "name": "x",
+            "url": "https://x.com/EchelonFND"
+        }
+    ]
+},
+{
+    "name": "SmarDex",
+    "symbol": "SDEX",
+    "type": "BASE",
+    "decimals": 18,
+    "description": "SMARDEX is an Automated Market Maker (AMM) that addresses the issue of Impermanent Loss (IL) and in some cases transforms it into Impermanent Gain (IG).",
+    "website": "https://smardex.io/",
+    "explorer": "https://basescan.org/token/0xfd4330b0312fdeec6d4225075b82e00493ff2e3f",
+    "status": "active",
+    "id": "0xFd4330b0312fdEEC6d4225075b82E00493FF2e3f",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/SmarDex"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/smardex/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com/en/coins/smardex/"
+        }
+    ],
+    "tags": [
+        "defi"
+    ]
+},
+{
+    "name": "Ixs",
+    "type": "BASE",
+    "symbol": "IXS",
+    "decimals": 18,
+    "website": "https://www.ixswap.io",
+    "description": "Unlocking Tokenized Real-World Assets for Institutions",
+    "explorer": "https://basescan.org/token/0xfe550bffb51eb645ea3b324d772a19ac449e92c5",
+    "status": "active",
+    "id": "0xFE550BfFb51EB645EA3b324D772A19AC449E92c5",
+    "links": [
+        {
+            "name": "x",
+            "url": "https://x.com/IxSwap"
+        },
+        {
+            "name": "coinmarketcap",
+            "url": "https://coinmarketcap.com/currencies/ix-swap/"
+        }
+    ]
+},
+{
+   "name": "Based Shiba Inu",
+   "type": "BASE",
+   "symbol": "BSHIB",
+   "decimals": 18,
+   "website": "http://basedshibainu.com/",
+   "description": "Based Shiba is proudly calling BASE Network its home. It aims to add a splash of color to the blockchain scene and create memorable experiences for their community.",
+   "explorer": "https://basescan.org/token/0xfea9dcdc9e23a9068bf557ad5b186675c61d33ea",
+   "status": "active",
+   "id": "0xfEA9DcDc9E23a9068bF557AD5b186675C61d33eA",
+   "links": [
+      {
+         "name": "x",
+         "url": "https://x.com/BasedShibaInu"
+      }
+   ]
+}]
